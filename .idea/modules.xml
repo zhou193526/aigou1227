@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/aigou.iml" filepath="$PROJECT_DIR$/aigou.iml" />
       <module fileurl="file://$PROJECT_DIR$/aigou_basic_parent/aigou_basic_parent.iml" filepath="$PROJECT_DIR$/aigou_basic_parent/aigou_basic_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/aigou_basic_parent/aigou_basic_util/aigou_basic_util.iml" filepath="$PROJECT_DIR$/aigou_basic_parent/aigou_basic_util/aigou_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aigou_configserver_8848/aigou_configserver_8848.iml" filepath="$PROJECT_DIR$/aigou_configserver_8848/aigou_configserver_8848.iml" />
       <module fileurl="file://$PROJECT_DIR$/aigou_eureka_server_7001/aigou_eureka_server_7001.iml" filepath="$PROJECT_DIR$/aigou_eureka_server_7001/aigou_eureka_server_7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/aigou_plat_parent/aigou_plat_interface/aigou_plat_interface.iml" filepath="$PROJECT_DIR$/aigou_plat_parent/aigou_plat_interface/aigou_plat_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/aigou_plat_parent/aigou_plat_parent.iml" filepath="$PROJECT_DIR$/aigou_plat_parent/aigou_plat_parent.iml" />

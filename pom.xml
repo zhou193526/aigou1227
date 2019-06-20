@@ -13,6 +13,7 @@
         <module>aigou_eureka_server_7001</module>
         <module>aigou_plat_parent</module>
         <module>aigou_zuul_parent_9001</module>
+        <module>aigou_configserver_8848</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

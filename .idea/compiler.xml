@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aigou_basic_util" />
+        <module name="aigou_configserver_8848" />
         <module name="aigou_eureka_server_7001" />
         <module name="aigou_plat_interface" />
         <module name="aigou_plat_service" />
@@ -18,6 +19,7 @@
       <module name="aigou" target="1.5" />
       <module name="aigou_basic_parent" target="1.7" />
       <module name="aigou_basic_util" target="1.7" />
+      <module name="aigou_configserver_8848" target="1.5" />
       <module name="aigou_eureka_server_7001" target="1.5" />
       <module name="aigou_plat_interface" target="1.5" />
       <module name="aigou_plat_parent" target="1.5" />
